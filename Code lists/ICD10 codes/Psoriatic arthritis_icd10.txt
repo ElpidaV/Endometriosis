@@ -1,0 +1,5 @@
+icd,description
+M07.0, Distal interphalangeal psoriatic arthropathy
+M07.2, Psoriatic spondylitis 
+M07.3, Other psoriatic arthropathies
+L40.5, Arthropathic psoriasis
