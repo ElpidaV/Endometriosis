@@ -1,0 +1,47 @@
+icd	description
+E00	 Congenital iodine-deficiency syndrome
+E00.0	 Congenital iodine-deficiency syndrome neurological type
+E00.1	 Congenital iodine-deficiency syndrome myxoedematous type
+E00.2	 Congenital iodine-deficiency syndrome mixed type
+E00.9	 Congenital iodine-deficiency syndrome unspecified
+E01	 Iodine-deficiency-related thyroid disorders and allied conditions
+E01.0	 Iodine-deficiency-related diffuse (endemic) goitre
+E01.1	 Iodine-deficiency-related multinodular (endemic) goitre
+E01.2	 Iodine-deficiency-related (endemic) goitre unspecified
+E01.8	 Other iodine-deficiency-related thyroid disorders and allied conditions
+E02	 Subclinical iodine-deficiency hypothyroidism
+E03	 Other hypothyroidism
+E03.0	 Congenital hypothyroidism with diffuse goitre
+E03.1	 Congenital hypothyroidism without goitre
+E03.2	 Hypothyroidism due to medicaments and other exogenous substances
+E03.3	 Postinfectious hypothyroidism
+E03.4	 Atrophy of thyroid (acquired)
+E03.5	 Myxoedema coma
+E03.8	 Other specified hypothyroidism
+E03.9	 Hypothyroidism unspecified
+E04	 Other nontoxic goitre
+E04.0	 Nontoxic diffuse goitre
+E04.1	 Nontoxic single thyroid nodule
+E04.2	 Nontoxic multinodular goitre
+E04.8	 Other specified nontoxic goitre
+E04.9	 Nontoxic goitre unspecified
+E05	 Thyrotoxicosis [hyperthyroidism]
+E05.0	 Thyrotoxicosis with diffuse goitre
+E05.1	 Thyrotoxicosis with toxic single thyroid nodule
+E05.2	 Thyrotoxicosis with toxic multinodular goitre
+E05.3	 Thyrotoxicosis from ectopic thyroid tissue
+E05.5	 Thyroid crisis or storm
+E05.8	 Other thyrotoxicosis
+E05.9	 Thyrotoxicosis unspecified
+E06	 Thyroiditis
+E06.0	 Acute thyroiditis
+E06.1	 Subacute thyroiditis
+E06.2	 Chronic thyroiditis with transient thyrotoxicosis
+E06.3	 Autoimmune thyroiditis
+E06.4	 Drug-induced thyroiditis
+E06.5	 Other chronic thyroiditis
+E06.9	 Thyroiditis unspecified
+E07	 Other disorders of thyroid
+E07.1	 Dyshormogenetic goitre
+E07.8	 Other specified disorders of thyroid
+E07.9	 Disorder of thyroid unspecified
