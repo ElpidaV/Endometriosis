@@ -1,0 +1,7 @@
+ICD	desc
+F42	 Obsessive-compulsive disorder
+F42.0	 Predominantly obsessional thoughts or ruminations
+F42.1	 Predominantly compulsive acts [obsessional rituals]
+F42.2	 Mixed obsessional thoughts and acts
+F42.8	 Other obsessive-compulsive disorders
+F42.9	 Obsessive-compulsive disorder unspecified
