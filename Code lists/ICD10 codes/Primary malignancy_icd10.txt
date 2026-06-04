@@ -1,0 +1,297 @@
+icd10	description
+C22.1	Intrahepatic bile duct carcinoma
+C23	Malignant neoplasm of gallbladder
+C24	Malignant neoplasm of other and unspecified parts of biliary tract
+C24.9	Biliary tract, unspecified
+C67	Malignant neoplasm of bladder
+C67.0	Trigone of bladder
+C67.1	Dome of bladder
+C67.2	Lateral wall of bladder
+C67.3	Anterior wall of bladder
+C67.4	Posterior wall of bladder
+C67.5	Bladder neck
+C40	Malignant neoplasm of bone and articular cartilage of limbs
+C40.0	Scapula and long bones of upper limb
+C40.1	Short bones of upper limb
+C40.2	Long bones of lower limb
+C40.3	Short bones of lower limb
+C40.8	Overlapping lesion of bone and articular cartilage of limbs
+C40.9	Bone and articular cartilage of limb, unspecified
+C41	Malignant neoplasm of bone and articular cartilage of other and unspecified sites
+C41.0	Bones of skull and face
+C41.1	Mandible
+C41.2	Vertebral column
+C41.3	Ribs, sternum and clavicle
+C41.4	Pelvic bones, sacrum and coccyx
+C41.8	Overlapping lesion of bone and articular cartilage
+C41.9	Bone and articular cartilage, unspecified
+C18	Malignant neoplasm of colon
+C18.0	Caecum
+C18.1	Appendix
+C18.2	Ascending colon
+C18.3	Hepatic flexure
+C18.4	Transverse colon
+C18.5	Splenic flexure
+C18.6	Descending colon
+C18.7	Sigmoid colon
+C18.8	Overlapping lesion of colon
+C18.9	Colon, unspecified
+C19	Malignant neoplasm of rectosigmoid junction
+C20	Malignant neoplasm of rectum
+C50	Malignant neoplasm of breast
+C50.0	Nipple and areola
+C50.1	Central portion of breast
+C50.2	Upper-inner quadrant of breast
+C50.3	Lower-inner quadrant of breast
+C50.4	Upper-outer quadrant of breast
+C50.5	Lower-outer quadrant of breast
+C50.6	Axillary tail of breast
+C50.8	Overlapping lesion of breast
+C50.9	Breast, unspecified
+C53	Malignant neoplasm of cervix uteri
+C53.0	Endocervix
+C53.1	Exocervix
+C53.8	Overlapping lesion of cervix uteri
+C53.9	Cervix uteri, unspecified
+C70	Malignant neoplasm of meninges
+C70.0	Cerebral meninges
+C70.1	Spinal meninges
+C70.9	Meninges, unspecified
+C71	Malignant neoplasm of brain
+C71.0	Cerebrum, except lobes and ventricles
+C71.1	Frontal lobe
+C71.2	Temporal lobe
+C71.3	Parietal lobe
+C71.4	Occipital lobe
+C71.5	Cerebral ventricle
+C71.6	Cerebellum
+C71.7	Brain stem
+C71.8	Overlapping lesion of brain
+C71.9	Brain, unspecified
+C72.8	Overlapping lesion of brain and other parts of central nervous system
+C17	Malignant neoplasm of small intestine
+C17.0	Duodenum
+C17.1	Jejunum
+C17.2	Ileum
+C17.3	Meckel diverticulum
+C17.8	Overlapping lesion of small intestine
+C17.9	Small intestine, unspecified
+C26.0	Intestinal tract, part unspecified
+C64	Malignant neoplasm of kidney, except renal pelvis
+C65	Malignant neoplasm of renal pelvis
+C10.1	Anterior surface of epiglottis
+C22	Malignant neoplasm of liver and intrahepatic bile ducts
+C22.0	Liver cell carcinoma
+C22.2	Hepatoblastoma
+C22.3	Angiosarcoma of liver
+C22.4	Other sarcomas of liver
+C22.7	Other specified carcinomas of liver
+C22.9	Liver, unspecified
+C34	Malignant neoplasm of bronchus and lung
+C34.0	Main bronchus
+C34.1	Upper lobe, bronchus or lung
+C34.2	Middle lobe, bronchus or lung
+C34.3	Lower lobe, bronchus or lung
+C34.8	Overlapping lesion of bronchus and lung
+C34.9	Bronchus or lung, unspecified
+C43	Malignant melanoma of skin
+C43.0	Malignant melanoma of lip
+C43.1	Malignant melanoma of eyelid, including canthus
+C43.2	Malignant melanoma of ear and external auricular canal
+C43.3	Malignant melanoma of other and unspecified parts of face
+C43.4	Malignant melanoma of scalp and neck
+C43.5	Malignant melanoma of trunk
+C43.6	Malignant melanoma of upper limb, including shoulder
+C43.7	Malignant melanoma of lower limb, including hip
+C43.8	Overlapping malignant melanoma of skin
+C43.9	Malignant melanoma of skin, unspecified
+C45	Mesothelioma
+C45.0	Mesothelioma of pleura
+C45.1	Mesothelioma of peritoneum
+C45.2	Mesothelioma of pericardium
+C45.7	Mesothelioma of other sites
+C45.9	Mesothelioma, unspecified
+C97	Malignant neoplasms of independent (primary) multiple sites
+C15	Malignant neoplasm of oesophagus
+C15.0	Cervical part of oesophagus
+C15.1	Thoracic part of oesophagus
+C15.2	Abdominal part of oesophagus
+C15.3	Upper third of oesophagus
+C15.4	Middle third of oesophagus
+C15.5	Lower third of oesophagus
+C15.8	Overlapping lesion of oesophagus
+C15.9	Oesophagus, unspecified
+C10	Malignant neoplasm of oropharynx
+C10.0	Vallecula
+C10.2	Lateral wall of oropharynx
+C10.3	Posterior wall of oropharynx
+C10.4	Branchial cleft
+C10.8	Overlapping lesion of oropharynx
+C10.9	Oropharynx, unspecified
+B21.0	HIV disease resulting in Kaposi sarcoma
+C26	Malignant neoplasm of other and ill-defined digestive organs
+C26.1	Spleen
+C26.8	Overlapping lesion of digestive system
+C26.9	Ill-defined sites within the digestive system
+C30	Malignant neoplasm of nasal cavity and middle ear
+C30.0	Nasal cavity
+C30.1	Middle ear
+C31	Malignant neoplasm of accessory sinuses
+C31.0	Maxillary sinus
+C31.1	Ethmoidal sinus
+C31.2	Frontal sinus
+C31.3	Sphenoidal sinus
+C31.8	Overlapping lesion of accessory sinuses
+C31.9	Accessory sinus, unspecified
+C37	Malignant neoplasm of thymus
+C38	Malignant neoplasm of heart, mediastinum and pleura
+C38.0	Heart
+C38.1	Anterior mediastinum
+C38.2	Posterior mediastinum
+C38.3	Mediastinum, part unspecified
+C38.4	Pleura
+C38.8	Overlapping lesion of heart, mediastinum and pleura
+C39	Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs
+C39.0	Upper respiratory tract, part unspecified
+C39.8	Overlapping lesion of respiratory and intrathoracic organs
+C39.9	Ill-defined sites within the respiratory system
+C46.1	Kaposi sarcoma of soft tissue
+C46.3	Kaposi sarcoma of lymph nodes
+C46.7	Kaposi sarcoma of other sites
+C46.8	Kaposi sarcoma of multiple organs
+C46.9	Kaposi sarcoma, unspecified
+C47	Malignant neoplasm of peripheral nerves and autonomic nervous system
+C47.0	Peripheral nerves of head, face and neck
+C47.1	Peripheral nerves of upper limb, including shoulder
+C47.2	Peripheral nerves of lower limb, including hip
+C47.3	Peripheral nerves of thorax
+C47.4	Peripheral nerves of abdomen
+C47.5	Peripheral nerves of pelvis
+C47.6	Peripheral nerves of trunk, unspecified
+C47.8	Overlapping lesion of peripheral nerves and autonomic nervous system
+C47.9	Peripheral nerves and autonomic nervous system, unspecified
+C48	Malignant neoplasm of retroperitoneum and peritoneum
+C48.0	Retroperitoneum
+C48.1	Specified parts of peritoneum
+C48.2	Peritoneum, unspecified
+C48.8	Overlapping lesion of retroperitoneum and peritoneum
+C49.0	Connective and soft tissue of head, face and neck
+C49.1	Connective and soft tissue of upper limb, including shoulder
+C49.2	Connective and soft tissue of lower limb, including hip
+C49.3	Connective and soft tissue of thorax
+C49.4	Connective and soft tissue of abdomen
+C49.5	Connective and soft tissue of pelvis
+C49.6	Connective and soft tissue of trunk, unspecified
+C49.8	Overlapping lesion of connective and soft tissue
+C49.9	Connective and soft tissue, unspecified
+C51	Malignant neoplasm of vulva
+C51.0	Labium majus
+C51.1	Labium minus
+C51.2	Clitoris
+C51.8	Overlapping lesion of vulva
+C51.9	Vulva, unspecified
+C52	Malignant neoplasm of vagina
+C57	Malignant neoplasm of other and unspecified female genital organs
+C57.7	Other specified female genital organs
+C57.8	Overlapping lesion of female genital organs
+C57.9	Female genital organ, unspecified
+C58	Malignant neoplasm of placenta
+C68	Malignant neoplasm of other and unspecified urinary organs
+C68.0	Urethra
+C68.1	Paraurethral gland
+C68.8	Overlapping lesion of urinary organs
+C68.9	Urinary organ, unspecified
+C69	Malignant neoplasm of eye and adnexa
+C69.0	Conjunctiva
+C69.1	Cornea
+C69.2	Retina
+C69.3	Choroid
+C69.4	Ciliary body
+C69.5	Lacrimal gland and duct
+C69.6	Orbit
+C69.8	Overlapping lesion of eye and adnexa
+C69.9	Eye, unspecified
+C74	Malignant neoplasm of adrenal gland
+C74.0	Cortex of adrenal gland
+C74.1	Medulla of adrenal gland
+C74.9	Adrenal gland, unspecified
+C75	Malignant neoplasm of other endocrine glands and related structures
+C75.0	Parathyroid gland
+C75.8	Pluriglandular involvement, unspecified
+C75.9	Endocrine gland, unspecified
+C76	Malignant neoplasm of other and ill-defined sites
+C76.0	Head, face and neck
+C76.1	Thorax
+C76.2	Abdomen
+C76.3	Pelvis
+C76.4	Upper limb
+C76.5	Lower limb
+C76.7	Other ill-defined sites
+C76.8	Overlapping lesion of other and ill-defined sites
+C80	Malignant neoplasm, without specification of site
+C85	Other and unspecified types of non-Hodgkin lymphoma
+C85.1	B-cell lymphoma, unspecified
+C85.2	Mediastinal (thymic) large B-cell lymphoma
+C85.7	Other specified types of non-Hodgkin lymphoma
+C85.9	Non-Hodgkin lymphoma, unspecified
+C86	Other specified types of T/NK-cell lymphoma
+C86.0	Extranodal NK/T-cell lymphoma, nasal type
+C86.1	Hepatosplenic T-cell lymphoma
+C86.2	Enteropathy-type (intestinal) T-cell lymphoma
+C86.3	Subcutaneous panniculitis-like T-cell lymphoma
+C86.4	Blastic NK-cell lymphoma
+C86.5	Angioimmunoblastic T-cell lymphoma
+C86.6	Primary cutaneous CD30-positive T-cell proliferations
+C88.3	Immunoproliferative small intestinal disease
+C88.7	Other malignant immunoproliferative diseases
+C88.9	Malignant immunoproliferative disease, unspecified
+C96.0	Multifocal and multisystemic (disseminated) Langerhans-cell histiocytosis [Letterer-Siwe disease]
+C96.2	Malignant mast cell tumour
+C96.5	Multifocal and unisystemic Langerhans-cell histiocytosis
+C96.6	Unifocal Langerhans-cell histiocytosis
+C96.8	Histiocytic sarcoma
+C56	Malignant neoplasm of ovary
+C25	Malignant neoplasm of pancreas
+C25.0	Head of pancreas
+C25.1	Body of pancreas
+C25.2	Tail of pancreas
+C25.3	Pancreatic duct
+C25.4	Endocrine pancreas
+C25.7	Other parts of pancreas
+C25.8	Overlapping lesion of pancreas
+C25.9	Pancreas, unspecified
+C44	Other malignant neoplasms of skin
+C44.0	Skin of lip
+C44.1	Skin of eyelid, including canthus
+C44.2	Skin of ear and external auricular canal
+C44.3	Skin of other and unspecified parts of face
+C44.4	Skin of scalp and neck
+C44.5	Skin of trunk
+C44.6	Skin of upper limb, including shoulder
+C44.7	Skin of lower limb, including hip
+C44.8	Overlapping lesion of skin
+C44.9	Malignant neoplasm of skin, unspecified
+C16	Malignant neoplasm of stomach
+C16.0	Cardia
+C16.1	Fundus of stomach
+C16.2	Body of stomach
+C16.3	Pyloric antrum
+C16.4	Pylorus
+C16.5	Lesser curvature of stomach, unspecified
+C16.6	Greater curvature of stomach, unspecified
+C16.8	Overlapping lesion of stomach
+C16.9	Stomach, unspecified
+C73	Malignant neoplasm of thyroid gland
+C54	Malignant neoplasm of corpus uteri
+C54.0	Isthmus uteri
+C54.1	Endometrium
+C54.2	Myometrium
+C54.3	Fundus uteri
+C54.8	Overlapping lesion of corpus uteri
+C54.9	Corpus uteri, unspecified
+C55	Malignant neoplasm of uterus, part unspecified
+C57.0	Fallopian tube
+C57.1	Broad ligament
+C57.2	Round ligament
+C57.3	Parametrium
+C57.4	Uterine adnexa, unspecified
