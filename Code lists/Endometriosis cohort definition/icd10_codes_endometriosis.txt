@@ -1,0 +1,10 @@
+Code	Description
+N80.0	Endometriosis of uterus
+N80.1	Endometriosis of ovary
+N80.2	Endometriosis of fallopian tube
+N80.3	Endometriosis of pelvic peritoneum
+N80.4	Endometriosis of rectovaginal septum and vagina
+N80.5	Endometriosis of intestine
+N80.6	Endometriosis in cutaneous scar
+N80.8	Other endometriosis
+N80.9	Endometriosis, unspecified
