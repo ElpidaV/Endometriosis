@@ -1,0 +1,8 @@
+ICD	descr
+G43	 migraine
+G43.0	 migraine without aura
+G43.1	 migraine with aura
+G43.2	 status migrainosus
+G43.3	 complicated migraine
+G43.8	 other migraine
+G43.9	 (unspecified migraine)
