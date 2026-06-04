@@ -1,0 +1,8 @@
+read.code	disease	medcode	descr	category	disease_num	system	system_num	medcodeid	snomedctconceptid	snomedctdescriptionid	mapping
+C10..00	Diabetes Mellitus_other or not specified	711	Diabetes mellitus	Diabetes, not otherwise specified (6)	45	Diseases of the Endocrine System	5	121589010	73211009	121589010	cleansedreadcode
+C100.00	Diabetes Mellitus_other or not specified	38986	Diabetes mellitus with no mention of complication	Diabetes, not otherwise specified (6)	45	Diseases of the Endocrine System	5	292466013	111552007	178796018	cleansedreadcode
+C100z00	Diabetes Mellitus_other or not specified	50972	Diabetes mellitus NOS with no mention of complication	Diabetes, not otherwise specified (6)	45	Diseases of the Endocrine System	5	292475010	111552007	178796018	cleansedreadcode
+C108z00	Diabetes Mellitus_other or not specified	64449	Unspecified diabetes mellitus with multiple complications	Diabetes, not otherwise specified (6)	45	Diseases of the Endocrine System	5	292565014	385041000000108	760111000000115	cleansedreadcode
+C10yz00	Diabetes Mellitus_other or not specified	70821	Diabetes mellitus NOS with other specified manifestation	Diabetes, not otherwise specified (6)	45	Diseases of the Endocrine System	5	292621010	73211009	121589010	cleansedreadcode
+Cyu2.00	Diabetes Mellitus_other or not specified	52212	[X]Diabetes mellitus	Diabetes, not otherwise specified (6)	45	Diseases of the Endocrine System	5	377001000006117	73211009	121589010	cleansedreadcode
+Cyu2000	Diabetes Mellitus_other or not specified	41686	[X]Other specified diabetes mellitus	Diabetes, not otherwise specified (6)	45	Diseases of the Endocrine System	5	293756010	73211009	121589010	cleansedreadcode
