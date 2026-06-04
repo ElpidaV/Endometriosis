@@ -1,0 +1,33 @@
+ICD	ICD10codealternative	Description
+F41.0	F410	panic disorder [episodic paroxysmal anxiety]
+F41.1	F411	generalized anxiety disorder
+F93.0	F930	separation anxiety disorder of childhood
+F93.1	F931	phobic anxiety disorder of childhood
+F93.2	F932	social anxiety disorder of childhood
+F40	F40	phobic anxiety disorders
+F40.0	F400	agoraphobia
+F40.1	F401	social phobias
+F40.2	F402	specific (isolated) phobias
+F40.8	F408	other phobic anxiety disorders
+F40.9	F409	phobic anxiety disorder, unspecified
+F41	F41	other anxiety disorders
+F41.2	F412	mixed anxiety and depressive disorder
+F41.3	F413	other mixed anxiety disorders
+F41.8	F418	other specified anxiety disorders
+F41.9	F419	anxiety disorder, unspecified
+F43	F43	reaction to severe stress, and adjustment disorders
+F43.0	F430	acute stress reaction
+F43.2	F432	adjustment disorders
+F43.8	F438	other reactions to severe stress
+F43.9	F439	reaction to severe stress, unspecified
+F45	F45	somatoform disorders
+F45.0	F450	somatization disorder
+F45.1	F451	undifferentiated somatoform disorder
+F45.2	F452	hypochondriacal disorder
+F45.3	F453	somatoform autonomic dysfunction
+F45.4	F454	persistent somatoform pain disorder
+F45.8	F458	other somatoform disorders
+F45.9	F459	somatoform disorder, unspecified
+F48	F48	other neurotic disorders
+F48.0	F480	neurasthenia
+F60.6	F606	anxious [avoidant] personality disorder
