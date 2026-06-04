@@ -1,0 +1,9 @@
+icd10	description
+L40	 Psoriasis
+L40.0	 Psoriasis vulgaris
+L40.1	 Generalized pustular psoriasis
+L40.2	 Acrodermatitis continua
+L40.3	 Pustulosis palmaris et plantaris
+L40.4	 Guttate psoriasis
+L40.8	 Other psoriasis
+L40.9	 Psoriasis unspecified
