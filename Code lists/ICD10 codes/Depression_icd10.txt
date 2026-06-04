@@ -1,0 +1,17 @@
+ICD	ICD10codealternative	Description
+F32	F32	depressive episode
+F32.0	F320	mild depressive episode
+F32.1	F321	moderate depressive episode
+F32.2	F322	severe depressive episode without psychotic symptoms
+F32.3	F323	severe depressive episode with psychotic symptoms
+F32.8	F328	other depressive episodes
+F32.9	F329	depressive episode, unspecified
+F33	F33	recurrent depressive disorder
+F33.0	F330	recurrent depressive disorder, current episode mild
+F33.1	F331	recurrent depressive disorder, current episode moderate
+F33.2	F332	recurrent depressive disorder, current episode severe without psychotic symptoms
+F33.3	F333	recurrent depressive disorder, current episode severe with psychotic symptoms
+F33.8	F338	other recurrent depressive disorders
+F33.9	F339	recurrent depressive disorder, unspecified
+F34.1	F341	dysthymia
+F92.0	F920	depressive conduct disorder
